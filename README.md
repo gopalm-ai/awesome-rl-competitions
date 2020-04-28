@@ -5,6 +5,7 @@ Collection of competitions for Reinforcement Learning
 
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
+| Running | N/A        | N/A         | N/A        | [AICrowd](https://www.aicrowd.com/challenges) |
 | Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 | Started | 2020-03-08 | 2020-05-20* | ICRA 2020  | [GOSEEK Challenge](https://github.com/MIT-TESSE/goseek-challenge) |
